@@ -452,25 +452,19 @@ class BTree {
 };
 
 int main(){
-    BTree<int> tree(4);
-    int index = 1;
-    int valores[] = {
-        73, 15, 88, 42, 60, 5, 91, 33, 77, 26
-    };  
-    for (int v : valores) {
-        tree.Insert(v);
-        tree.ToDot(to_string(index) + ".dot");    
-        index++;
-    }
+    int m = 2;
+    BTree<int> tree(m);
 
-    int remover[] = {
-        33, 60, 5
-    };
+    int adicionar[] = {};
+
+    int remover[] = {};
+
+    for (int v : adicionar) {
+        tree.Insert(v);
+    }
 
     for (int v : remover) {
         tree.Remove(v);
-        tree.ToDot(to_string(index) + ".dot");    
-        index++;
     }
 
     tree.ToDot("final.dot");
