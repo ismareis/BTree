@@ -1,0 +1,360 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3941pt" height="191pt" viewBox="0.00 0.00 3941.00 191.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 187)">
+<title>BTree</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-187 3937.01,-187 3937.01,4 -4,4"/>
+<!-- node0 -->
+<g id="node1" class="node">
+<title>node0</title>
+<polygon fill="none" stroke="black" points="1511.74,-146.5 1511.74,-182.5 1616.82,-182.5 1616.82,-146.5 1511.74,-146.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1537.24" y="-160.3" font-family="Times,serif" font-size="14.00">Felipe</text>
+<polyline fill="none" stroke="black" points="1562.73,-146.5 1562.73,-182.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1589.78" y="-160.3" font-family="Times,serif" font-size="14.00">Kleber</text>
+</g>
+<!-- node1 -->
+<g id="node2" class="node">
+<title>node1</title>
+<polygon fill="none" stroke="black" points="664.48,-73.5 664.48,-109.5 836.09,-109.5 836.09,-73.5 664.48,-73.5"/>
+<text xml:space="preserve" text-anchor="middle" x="691.91" y="-87.3" font-family="Times,serif" font-size="14.00">Bianca</text>
+<polyline fill="none" stroke="black" points="719.35,-73.5 719.35,-109.5"/>
+<text xml:space="preserve" text-anchor="middle" x="746" y="-87.3" font-family="Times,serif" font-size="14.00">Daniel</text>
+<polyline fill="none" stroke="black" points="772.66,-73.5 772.66,-109.5"/>
+<text xml:space="preserve" text-anchor="middle" x="804.38" y="-87.3" font-family="Times,serif" font-size="14.00">Eduardo</text>
+</g>
+<!-- node0&#45;&gt;node1 -->
+<g id="edge5" class="edge">
+<title>node0-&gt;node1</title>
+<path fill="none" stroke="black" d="M1511.5,-158.9C1377.21,-147.18 1020.95,-116.11 847.67,-100.99"/>
+<polygon fill="black" stroke="black" points="848.04,-97.51 837.78,-100.13 847.43,-104.49 848.04,-97.51"/>
+</g>
+<!-- node6 -->
+<g id="node7" class="node">
+<title>node6</title>
+<polygon fill="none" stroke="black" points="1451.43,-73.5 1451.43,-109.5 1677.14,-109.5 1677.14,-73.5 1451.43,-73.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1484.3" y="-87.3" font-family="Times,serif" font-size="14.00">Geovane</text>
+<polyline fill="none" stroke="black" points="1517.18,-73.5 1517.18,-109.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1543.06" y="-87.3" font-family="Times,serif" font-size="14.00">Heitor</text>
+<polyline fill="none" stroke="black" points="1568.95,-73.5 1568.95,-109.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1588.61" y="-87.3" font-family="Times,serif" font-size="14.00">Igor</text>
+<polyline fill="none" stroke="black" points="1608.27,-73.5 1608.27,-109.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1642.7" y="-87.3" font-family="Times,serif" font-size="14.00">Jaqueline</text>
+</g>
+<!-- node0&#45;&gt;node6 -->
+<g id="edge11" class="edge">
+<title>node0-&gt;node6</title>
+<path fill="none" stroke="black" d="M1564.28,-146.31C1564.28,-138.73 1564.28,-129.6 1564.28,-121.04"/>
+<polygon fill="black" stroke="black" points="1567.78,-121.04 1564.28,-111.04 1560.78,-121.04 1567.78,-121.04"/>
+</g>
+<!-- node12 -->
+<g id="node13" class="node">
+<title>node12</title>
+<polygon fill="none" stroke="black" points="2793.98,-73.5 2793.98,-109.5 3118.59,-109.5 3118.59,-73.5 2793.98,-73.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2822.58" y="-87.3" font-family="Times,serif" font-size="14.00">Natália</text>
+<polyline fill="none" stroke="black" points="2851.19,-73.5 2851.19,-109.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2878.63" y="-87.3" font-family="Times,serif" font-size="14.00">Otávio</text>
+<polyline fill="none" stroke="black" points="2906.08,-73.5 2906.08,-109.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2937.02" y="-87.3" font-family="Times,serif" font-size="14.00">Rodrigo</text>
+<polyline fill="none" stroke="black" points="2967.97,-73.5 2967.97,-109.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2993.46" y="-87.3" font-family="Times,serif" font-size="14.00">Tadeu</text>
+<polyline fill="none" stroke="black" points="3018.95,-73.5 3018.95,-109.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3041.72" y="-87.3" font-family="Times,serif" font-size="14.00">Vitor</text>
+<polyline fill="none" stroke="black" points="3064.5,-73.5 3064.5,-109.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3091.54" y="-87.3" font-family="Times,serif" font-size="14.00">Xavier</text>
+</g>
+<!-- node0&#45;&gt;node12 -->
+<g id="edge19" class="edge">
+<title>node0-&gt;node12</title>
+<path fill="none" stroke="black" d="M1617.15,-160.8C1807.76,-151.08 2465.16,-117.55 2782.36,-101.37"/>
+<polygon fill="black" stroke="black" points="2782.18,-104.88 2791.99,-100.88 2781.83,-97.89 2782.18,-104.88"/>
+</g>
+<!-- node2 -->
+<g id="node3" class="node">
+<title>node2</title>
+<polygon fill="none" stroke="black" points="0,-0.5 0,-36.5 382.57,-36.5 382.57,-0.5 0,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="30.54" y="-14.3" font-family="Times,serif" font-size="14.00">Adriana</text>
+<polyline fill="none" stroke="black" points="61.09,-0.5 61.09,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="90.47" y="-14.3" font-family="Times,serif" font-size="14.00">Alberto</text>
+<polyline fill="none" stroke="black" points="119.86,-0.5 119.86,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="143.41" y="-14.3" font-family="Times,serif" font-size="14.00">Aline</text>
+<polyline fill="none" stroke="black" points="166.96,-0.5 166.96,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="186.62" y="-14.3" font-family="Times,serif" font-size="14.00">Ana</text>
+<polyline fill="none" stroke="black" points="206.28,-0.5 206.28,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="232.17" y="-14.3" font-family="Times,serif" font-size="14.00">André</text>
+<polyline fill="none" stroke="black" points="258.06,-0.5 258.06,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="286.27" y="-14.3" font-family="Times,serif" font-size="14.00">Beatriz</text>
+<polyline fill="none" stroke="black" points="314.48,-0.5 314.48,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="348.52" y="-14.3" font-family="Times,serif" font-size="14.00">Bernardo</text>
+</g>
+<!-- node1&#45;&gt;node2 -->
+<g id="edge1" class="edge">
+<title>node1-&gt;node2</title>
+<path fill="none" stroke="black" d="M664.16,-79.56C577.96,-68.61 443.6,-51.55 340.1,-38.4"/>
+<polygon fill="black" stroke="black" points="340.78,-34.96 330.42,-37.17 339.9,-41.9 340.78,-34.96"/>
+</g>
+<!-- node3 -->
+<g id="node4" class="node">
+<title>node3</title>
+<polygon fill="none" stroke="black" points="400.47,-0.5 400.47,-36.5 644.1,-36.5 644.1,-0.5 400.47,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="428.68" y="-14.3" font-family="Times,serif" font-size="14.00">Brenda</text>
+<polyline fill="none" stroke="black" points="456.89,-0.5 456.89,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="486.27" y="-14.3" font-family="Times,serif" font-size="14.00">Cecília</text>
+<polyline fill="none" stroke="black" points="515.65,-0.5 515.65,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="546.21" y="-14.3" font-family="Times,serif" font-size="14.00">Cláudio</text>
+<polyline fill="none" stroke="black" points="576.77,-0.5 576.77,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="610.44" y="-14.3" font-family="Times,serif" font-size="14.00">Cristiano</text>
+</g>
+<!-- node1&#45;&gt;node3 -->
+<g id="edge2" class="edge">
+<title>node1-&gt;node3</title>
+<path fill="none" stroke="black" d="M694.22,-73.04C662.33,-63.11 622.21,-50.62 588.75,-40.2"/>
+<polygon fill="black" stroke="black" points="590.17,-36.97 579.58,-37.34 588.09,-43.66 590.17,-36.97"/>
+</g>
+<!-- node4 -->
+<g id="node5" class="node">
+<title>node4</title>
+<polygon fill="none" stroke="black" points="662.52,-0.5 662.52,-36.5 838.05,-36.5 838.05,-0.5 662.52,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="689.96" y="-14.3" font-family="Times,serif" font-size="14.00">Denise</text>
+<polyline fill="none" stroke="black" points="717.4,-0.5 717.4,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="748.73" y="-14.3" font-family="Times,serif" font-size="14.00">Douglas</text>
+<polyline fill="none" stroke="black" points="780.06,-0.5 780.06,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="809.05" y="-14.3" font-family="Times,serif" font-size="14.00">Débora</text>
+</g>
+<!-- node1&#45;&gt;node4 -->
+<g id="edge3" class="edge">
+<title>node1-&gt;node4</title>
+<path fill="none" stroke="black" d="M750.28,-73.31C750.28,-65.73 750.28,-56.6 750.28,-48.04"/>
+<polygon fill="black" stroke="black" points="753.78,-48.04 750.28,-38.04 746.78,-48.04 753.78,-48.04"/>
+</g>
+<!-- node5 -->
+<g id="node6" class="node">
+<title>node5</title>
+<polygon fill="none" stroke="black" points="856.2,-0.5 856.2,-36.5 1066.37,-36.5 1066.37,-0.5 856.2,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="882.08" y="-14.3" font-family="Times,serif" font-size="14.00">Elaine</text>
+<polyline fill="none" stroke="black" points="907.96,-0.5 907.96,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="931.12" y="-14.3" font-family="Times,serif" font-size="14.00">Elton</text>
+<polyline fill="none" stroke="black" points="954.29,-0.5 954.29,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="987.17" y="-14.3" font-family="Times,serif" font-size="14.00">Emanuel</text>
+<polyline fill="none" stroke="black" points="1020.05,-0.5 1020.05,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1043.21" y="-14.3" font-family="Times,serif" font-size="14.00">Erika</text>
+</g>
+<!-- node1&#45;&gt;node5 -->
+<g id="edge4" class="edge">
+<title>node1-&gt;node5</title>
+<path fill="none" stroke="black" d="M802.17,-73.04C831.42,-63.2 868.17,-50.83 898.97,-40.47"/>
+<polygon fill="black" stroke="black" points="899.8,-43.88 908.16,-37.37 897.57,-37.25 899.8,-43.88"/>
+</g>
+<!-- node7 -->
+<g id="node8" class="node">
+<title>node7</title>
+<polygon fill="none" stroke="black" points="1084.36,-0.5 1084.36,-36.5 1262.2,-36.5 1262.2,-0.5 1084.36,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1110.25" y="-14.3" font-family="Times,serif" font-size="14.00">Flávia</text>
+<polyline fill="none" stroke="black" points="1136.14,-0.5 1136.14,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1170.18" y="-14.3" font-family="Times,serif" font-size="14.00">Franciele</text>
+<polyline fill="none" stroke="black" points="1204.22,-0.5 1204.22,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1233.21" y="-14.3" font-family="Times,serif" font-size="14.00">Gabriel</text>
+</g>
+<!-- node6&#45;&gt;node7 -->
+<g id="edge6" class="edge">
+<title>node6-&gt;node7</title>
+<path fill="none" stroke="black" d="M1468.13,-73.04C1409.06,-62.31 1333.51,-48.59 1273.67,-37.73"/>
+<polygon fill="black" stroke="black" points="1274.65,-34.35 1264.18,-36.01 1273.39,-41.24 1274.65,-34.35"/>
+</g>
+<!-- node8 -->
+<g id="node9" class="node">
+<title>node8</title>
+<polygon fill="none" stroke="black" points="1280.36,-0.5 1280.36,-36.5 1458.21,-36.5 1458.21,-0.5 1280.36,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1312.07" y="-14.3" font-family="Times,serif" font-size="14.00">Giovana</text>
+<polyline fill="none" stroke="black" points="1343.78,-0.5 1343.78,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1369.67" y="-14.3" font-family="Times,serif" font-size="14.00">Gisele</text>
+<polyline fill="none" stroke="black" points="1395.55,-0.5 1395.55,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1426.88" y="-14.3" font-family="Times,serif" font-size="14.00">Gustavo</text>
+</g>
+<!-- node6&#45;&gt;node8 -->
+<g id="edge7" class="edge">
+<title>node6-&gt;node8</title>
+<path fill="none" stroke="black" d="M1516.58,-73.13C1489.79,-63.38 1456.13,-51.12 1427.76,-40.79"/>
+<polygon fill="black" stroke="black" points="1429.19,-37.59 1418.59,-37.45 1426.79,-44.16 1429.19,-37.59"/>
+</g>
+<!-- node9 -->
+<g id="node10" class="node">
+<title>node9</title>
+<polygon fill="none" stroke="black" points="1475.75,-0.5 1475.75,-36.5 1652.82,-36.5 1652.82,-0.5 1475.75,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1506.68" y="-14.3" font-family="Times,serif" font-size="14.00">Heloísa</text>
+<polyline fill="none" stroke="black" points="1537.62,-0.5 1537.62,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1571.67" y="-14.3" font-family="Times,serif" font-size="14.00">Henrique</text>
+<polyline fill="none" stroke="black" points="1605.71,-0.5 1605.71,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1629.27" y="-14.3" font-family="Times,serif" font-size="14.00">Hugo</text>
+</g>
+<!-- node6&#45;&gt;node9 -->
+<g id="edge8" class="edge">
+<title>node6-&gt;node9</title>
+<path fill="none" stroke="black" d="M1564.28,-73.31C1564.28,-65.73 1564.28,-56.6 1564.28,-48.04"/>
+<polygon fill="black" stroke="black" points="1567.78,-48.04 1564.28,-38.04 1560.78,-48.04 1567.78,-48.04"/>
+</g>
+<!-- node10 -->
+<g id="node11" class="node">
+<title>node10</title>
+<polygon fill="none" stroke="black" points="1670.92,-0.5 1670.92,-36.5 1817.65,-36.5 1817.65,-0.5 1670.92,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1696.02" y="-14.3" font-family="Times,serif" font-size="14.00">Ingrid</text>
+<polyline fill="none" stroke="black" points="1721.13,-0.5 1721.13,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1748.95" y="-14.3" font-family="Times,serif" font-size="14.00">Isabela</text>
+<polyline fill="none" stroke="black" points="1776.77,-0.5 1776.77,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1797.21" y="-14.3" font-family="Times,serif" font-size="14.00">Ivan</text>
+</g>
+<!-- node6&#45;&gt;node10 -->
+<g id="edge9" class="edge">
+<title>node6-&gt;node10</title>
+<path fill="none" stroke="black" d="M1608.32,-73.13C1632.83,-63.46 1663.57,-51.34 1689.61,-41.06"/>
+<polygon fill="black" stroke="black" points="1690.65,-44.42 1698.67,-37.49 1688.09,-37.9 1690.65,-44.42"/>
+</g>
+<!-- node11 -->
+<g id="node12" class="node">
+<title>node11</title>
+<polygon fill="none" stroke="black" points="1835.69,-0.5 1835.69,-36.5 2038.87,-36.5 2038.87,-0.5 1835.69,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1863.52" y="-14.3" font-family="Times,serif" font-size="14.00">Jéssica</text>
+<polyline fill="none" stroke="black" points="1891.36,-0.5 1891.36,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1912.96" y="-14.3" font-family="Times,serif" font-size="14.00">Kaio</text>
+<polyline fill="none" stroke="black" points="1934.57,-0.5 1934.57,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="1961.61" y="-14.3" font-family="Times,serif" font-size="14.00">Karina</text>
+<polyline fill="none" stroke="black" points="1988.66,-0.5 1988.66,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2013.77" y="-14.3" font-family="Times,serif" font-size="14.00">Kevin</text>
+</g>
+<!-- node6&#45;&gt;node11 -->
+<g id="edge10" class="edge">
+<title>node6-&gt;node11</title>
+<path fill="none" stroke="black" d="M1656.01,-73.04C1710.1,-62.74 1778.69,-49.69 1834.59,-39.05"/>
+<polygon fill="black" stroke="black" points="1834.93,-42.54 1844.1,-37.24 1833.63,-35.67 1834.93,-42.54"/>
+</g>
+<!-- node13 -->
+<g id="node14" class="node">
+<title>node13</title>
+<polygon fill="none" stroke="black" points="2057.06,-0.5 2057.06,-36.5 2399.51,-36.5 2399.51,-0.5 2057.06,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2088.38" y="-14.3" font-family="Times,serif" font-size="14.00">Leandro</text>
+<polyline fill="none" stroke="black" points="2119.7,-0.5 2119.7,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2148.68" y="-14.3" font-family="Times,serif" font-size="14.00">Letícia</text>
+<polyline fill="none" stroke="black" points="2177.67,-0.5 2177.67,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2201.6" y="-14.3" font-family="Times,serif" font-size="14.00">Lúcia</text>
+<polyline fill="none" stroke="black" points="2225.54,-0.5 2225.54,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2254.15" y="-14.3" font-family="Times,serif" font-size="14.00">Mateus</text>
+<polyline fill="none" stroke="black" points="2282.75,-0.5 2282.75,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2313.69" y="-14.3" font-family="Times,serif" font-size="14.00">Michele</text>
+<polyline fill="none" stroke="black" points="2344.62,-0.5 2344.62,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2372.07" y="-14.3" font-family="Times,serif" font-size="14.00">Murilo</text>
+</g>
+<!-- node12&#45;&gt;node13 -->
+<g id="edge12" class="edge">
+<title>node12-&gt;node13</title>
+<path fill="none" stroke="black" d="M2793.81,-74.65C2680.35,-63.59 2528.73,-48.8 2411.04,-37.32"/>
+<polygon fill="black" stroke="black" points="2411.56,-33.86 2401.27,-36.37 2410.88,-40.83 2411.56,-33.86"/>
+</g>
+<!-- node14 -->
+<g id="node15" class="node">
+<title>node14</title>
+<polygon fill="none" stroke="black" points="2417.98,-0.5 2417.98,-36.5 2756.59,-36.5 2756.59,-0.5 2417.98,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2443.47" y="-14.3" font-family="Times,serif" font-size="14.00">Neusa</text>
+<polyline fill="none" stroke="black" points="2468.97,-0.5 2468.97,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2498.35" y="-14.3" font-family="Times,serif" font-size="14.00">Nicolas</text>
+<polyline fill="none" stroke="black" points="2527.73,-0.5 2527.73,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2552.84" y="-14.3" font-family="Times,serif" font-size="14.00">Nádia</text>
+<polyline fill="none" stroke="black" points="2577.95,-0.5 2577.95,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2605" y="-14.3" font-family="Times,serif" font-size="14.00">Olívia</text>
+<polyline fill="none" stroke="black" points="2632.05,-0.5 2632.05,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2662.99" y="-14.3" font-family="Times,serif" font-size="14.00">Orlando</text>
+<polyline fill="none" stroke="black" points="2693.92,-0.5 2693.92,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2725.26" y="-14.3" font-family="Times,serif" font-size="14.00">Osvaldo</text>
+</g>
+<!-- node12&#45;&gt;node14 -->
+<g id="edge13" class="edge">
+<title>node12-&gt;node14</title>
+<path fill="none" stroke="black" d="M2865.54,-73.04C2812.14,-62.77 2744.46,-49.74 2689.22,-39.11"/>
+<polygon fill="black" stroke="black" points="2689.96,-35.69 2679.48,-37.24 2688.64,-42.57 2689.96,-35.69"/>
+</g>
+<!-- node15 -->
+<g id="node16" class="node">
+<title>node15</title>
+<polygon fill="none" stroke="black" points="2774.13,-0.5 2774.13,-36.5 2950.44,-36.5 2950.44,-0.5 2774.13,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2803.13" y="-14.3" font-family="Times,serif" font-size="14.00">Priscila</text>
+<polyline fill="none" stroke="black" points="2832.12,-0.5 2832.12,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2861.12" y="-14.3" font-family="Times,serif" font-size="14.00">Pâmela</text>
+<polyline fill="none" stroke="black" points="2890.12,-0.5 2890.12,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2920.28" y="-14.3" font-family="Times,serif" font-size="14.00">Ricardo</text>
+</g>
+<!-- node12&#45;&gt;node15 -->
+<g id="edge14" class="edge">
+<title>node12-&gt;node15</title>
+<path fill="none" stroke="black" d="M2933.53,-73.31C2921.72,-64.4 2907.11,-53.36 2894.19,-43.6"/>
+<polygon fill="black" stroke="black" points="2896.45,-40.92 2886.36,-37.69 2892.23,-46.51 2896.45,-40.92"/>
+</g>
+<!-- node16 -->
+<g id="node17" class="node">
+<title>node16</title>
+<polygon fill="none" stroke="black" points="2968.18,-0.5 2968.18,-36.5 3134.39,-36.5 3134.39,-0.5 2968.18,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="2997.56" y="-14.3" font-family="Times,serif" font-size="14.00">Sabrina</text>
+<polyline fill="none" stroke="black" points="3026.94,-0.5 3026.94,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3051.28" y="-14.3" font-family="Times,serif" font-size="14.00">Silvia</text>
+<polyline fill="none" stroke="black" points="3075.61,-0.5 3075.61,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3105" y="-14.3" font-family="Times,serif" font-size="14.00">Simone</text>
+</g>
+<!-- node12&#45;&gt;node16 -->
+<g id="edge15" class="edge">
+<title>node12-&gt;node16</title>
+<path fill="none" stroke="black" d="M2979.28,-73.31C2991.21,-64.4 3005.98,-53.36 3019.03,-43.6"/>
+<polygon fill="black" stroke="black" points="3021.04,-46.47 3026.96,-37.68 3016.85,-40.86 3021.04,-46.47"/>
+</g>
+<!-- node17 -->
+<g id="node18" class="node">
+<title>node17</title>
+<polygon fill="none" stroke="black" points="3152.7,-0.5 3152.7,-36.5 3325.87,-36.5 3325.87,-0.5 3152.7,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3175.87" y="-14.3" font-family="Times,serif" font-size="14.00">Túlio</text>
+<polyline fill="none" stroke="black" points="3199.03,-0.5 3199.03,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3233.46" y="-14.3" font-family="Times,serif" font-size="14.00">Ubirajara</text>
+<polyline fill="none" stroke="black" points="3267.89,-0.5 3267.89,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3296.88" y="-14.3" font-family="Times,serif" font-size="14.00">Valéria</text>
+</g>
+<!-- node12&#45;&gt;node17 -->
+<g id="edge16" class="edge">
+<title>node12-&gt;node17</title>
+<path fill="none" stroke="black" d="M3025.88,-73.04C3066.14,-62.94 3116.98,-50.18 3158.94,-39.66"/>
+<polygon fill="black" stroke="black" points="3159.64,-43.09 3168.49,-37.26 3157.94,-36.3 3159.64,-43.09"/>
+</g>
+<!-- node18 -->
+<g id="node19" class="node">
+<title>node18</title>
+<polygon fill="none" stroke="black" points="3343.39,-0.5 3343.39,-36.5 3665.18,-36.5 3665.18,-0.5 3343.39,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3373.55" y="-14.3" font-family="Times,serif" font-size="14.00">Viviane</text>
+<polyline fill="none" stroke="black" points="3403.71,-0.5 3403.71,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3434.63" y="-14.3" font-family="Times,serif" font-size="14.00">Wallace</text>
+<polyline fill="none" stroke="black" points="3465.56,-0.5 3465.56,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3507.38" y="-14.3" font-family="Times,serif" font-size="14.00">Washington</text>
+<polyline fill="none" stroke="black" points="3549.21,-0.5 3549.21,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3578.2" y="-14.3" font-family="Times,serif" font-size="14.00">Wesley</text>
+<polyline fill="none" stroke="black" points="3607.19,-0.5 3607.19,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3636.18" y="-14.3" font-family="Times,serif" font-size="14.00">Willian</text>
+</g>
+<!-- node12&#45;&gt;node18 -->
+<g id="edge17" class="edge">
+<title>node12-&gt;node18</title>
+<path fill="none" stroke="black" d="M3091.04,-73.04C3172.09,-62.54 3275.27,-49.17 3358.26,-38.42"/>
+<polygon fill="black" stroke="black" points="3358.6,-41.9 3368.07,-37.15 3357.7,-34.96 3358.6,-41.9"/>
+</g>
+<!-- node19 -->
+<g id="node20" class="node">
+<title>node19</title>
+<polygon fill="none" stroke="black" points="3683.56,-0.5 3683.56,-36.5 3933.01,-36.5 3933.01,-0.5 3683.56,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3704.39" y="-14.3" font-family="Times,serif" font-size="14.00">Yuri</text>
+<polyline fill="none" stroke="black" points="3725.22,-0.5 3725.22,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3746.81" y="-14.3" font-family="Times,serif" font-size="14.00">Zeca</text>
+<polyline fill="none" stroke="black" points="3768.41,-0.5 3768.41,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3798.95" y="-14.3" font-family="Times,serif" font-size="14.00">Zenaide</text>
+<polyline fill="none" stroke="black" points="3829.49,-0.5 3829.49,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3852.27" y="-14.3" font-family="Times,serif" font-size="14.00">Zilda</text>
+<polyline fill="none" stroke="black" points="3875.04,-0.5 3875.04,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="3904.02" y="-14.3" font-family="Times,serif" font-size="14.00">Zuleica</text>
+</g>
+<!-- node12&#45;&gt;node19 -->
+<g id="edge18" class="edge">
+<title>node12-&gt;node19</title>
+<path fill="none" stroke="black" d="M3119.05,-80.96C3261.95,-71.97 3475.71,-57.08 3671.73,-37.23"/>
+<polygon fill="black" stroke="black" points="3672.03,-40.72 3681.62,-36.22 3671.32,-33.75 3672.03,-40.72"/>
+</g>
+</g>
+</svg>
