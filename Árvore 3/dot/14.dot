@@ -1,0 +1,8 @@
+digraph BTree {
+  node [shape=record];
+  node0 [label="Guilherme"];
+  node1 [label="Arthur | Bruno | Carlos"];
+  node0 -> node1;
+  node2 [label="João | Luiz | Pedro | Vitor"];
+  node0 -> node2;
+}

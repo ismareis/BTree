@@ -1,0 +1,4 @@
+digraph BTree {
+  node [shape=record];
+  node0 [label="10 | 20 | 30 | 40"];
+}

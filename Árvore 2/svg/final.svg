@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="334pt" height="118pt" viewBox="0.00 0.00 334.00 118.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 114)">
+<title>BTree</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-114 329.5,-114 329.5,4 -4,4"/>
+<!-- node0 -->
+<g id="node1" class="node">
+<title>node0</title>
+<polygon fill="none" stroke="black" points="134,-73.5 134,-109.5 188,-109.5 188,-73.5 134,-73.5"/>
+<text xml:space="preserve" text-anchor="middle" x="161" y="-87.3" font-family="Times,serif" font-size="14.00">50</text>
+</g>
+<!-- node1 -->
+<g id="node2" class="node">
+<title>node1</title>
+<polygon fill="none" stroke="black" points="0,-0.5 0,-36.5 150,-36.5 150,-0.5 0,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="15" y="-14.3" font-family="Times,serif" font-size="14.00">10</text>
+<polyline fill="none" stroke="black" points="30,-0.5 30,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="45" y="-14.3" font-family="Times,serif" font-size="14.00">15</text>
+<polyline fill="none" stroke="black" points="60,-0.5 60,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="75" y="-14.3" font-family="Times,serif" font-size="14.00">20</text>
+<polyline fill="none" stroke="black" points="90,-0.5 90,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="105" y="-14.3" font-family="Times,serif" font-size="14.00">35</text>
+<polyline fill="none" stroke="black" points="120,-0.5 120,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="135" y="-14.3" font-family="Times,serif" font-size="14.00">40</text>
+</g>
+<!-- node0&#45;&gt;node1 -->
+<g id="edge1" class="edge">
+<title>node0-&gt;node1</title>
+<path fill="none" stroke="black" d="M140.18,-73.31C129.49,-64.48 116.27,-53.57 104.54,-43.89"/>
+<polygon fill="black" stroke="black" points="107.03,-41.41 97.09,-37.74 102.58,-46.8 107.03,-41.41"/>
+</g>
+<!-- node2 -->
+<g id="node3" class="node">
+<title>node2</title>
+<polygon fill="none" stroke="black" points="168.5,-0.5 168.5,-36.5 325.5,-36.5 325.5,-0.5 168.5,-0.5"/>
+<text xml:space="preserve" text-anchor="middle" x="183.5" y="-14.3" font-family="Times,serif" font-size="14.00">55</text>
+<polyline fill="none" stroke="black" points="198.5,-0.5 198.5,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="213.5" y="-14.3" font-family="Times,serif" font-size="14.00">70</text>
+<polyline fill="none" stroke="black" points="228.5,-0.5 228.5,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="243.5" y="-14.3" font-family="Times,serif" font-size="14.00">80</text>
+<polyline fill="none" stroke="black" points="258.5,-0.5 258.5,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="273.5" y="-14.3" font-family="Times,serif" font-size="14.00">85</text>
+<polyline fill="none" stroke="black" points="288.5,-0.5 288.5,-36.5"/>
+<text xml:space="preserve" text-anchor="middle" x="307" y="-14.3" font-family="Times,serif" font-size="14.00">100</text>
+</g>
+<!-- node0&#45;&gt;node2 -->
+<g id="edge2" class="edge">
+<title>node0-&gt;node2</title>
+<path fill="none" stroke="black" d="M181.82,-73.31C192.51,-64.48 205.73,-53.57 217.46,-43.89"/>
+<polygon fill="black" stroke="black" points="219.42,-46.8 224.91,-37.74 214.97,-41.41 219.42,-46.8"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+m = 4
+
+INSERT João
+INSERT Felipe
+INSERT Pedro
+INSERT Luiz
+INSERT Daniel
+INSERT Bruno
+INSERT Carlos
+INSERT Arthur
+INSERT Rodrigo
+INSERT Vitor
+INSERT Guilherme
+REMOVE Felipe
+REMOVE Rodrigo
+REMOVE Daniel
+REMOVE Guilherme
