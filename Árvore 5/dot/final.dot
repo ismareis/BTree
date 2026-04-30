@@ -1,0 +1,26 @@
+digraph BTree {
+  node [shape=record];
+  node0 [label="11 | 18 | 27 | 35 | 41 | 52 | 59 | 70 | 79 | 90"];
+  node1 [label="1 | 3 | 4 | 8 | 10"];
+  node0 -> node1;
+  node2 [label="13 | 14 | 15 | 16 | 17"];
+  node0 -> node2;
+  node3 [label="19 | 20 | 21 | 24 | 25"];
+  node0 -> node3;
+  node4 [label="29 | 30 | 31 | 32 | 33"];
+  node0 -> node4;
+  node5 [label="36 | 37 | 38 | 39 | 40"];
+  node0 -> node5;
+  node6 [label="43 | 44 | 45 | 46 | 48 | 49 | 50 | 51"];
+  node0 -> node6;
+  node7 [label="53 | 55 | 56 | 57 | 58"];
+  node0 -> node7;
+  node8 [label="60 | 63 | 64 | 67 | 69"];
+  node0 -> node8;
+  node9 [label="71 | 73 | 75 | 76 | 77"];
+  node0 -> node9;
+  node10 [label="81 | 83 | 84 | 85 | 87 | 88 | 89"];
+  node0 -> node10;
+  node11 [label="94 | 96 | 98 | 99 | 100"];
+  node0 -> node11;
+}
